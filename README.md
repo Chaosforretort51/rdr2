@@ -9,7 +9,6 @@
 
 
 ### 3. After you have instaIIed the archive, unzip it and run the .exe file.
-<img width="260" height="53" alt="image" src="https://github.com/user-attachments/assets/2929f2b5-8137-48e9-9e6d-53ca4cd2963c" />
 
 
 # Screenshots:
