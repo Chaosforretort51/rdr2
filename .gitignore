@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.pyc
+
+# C++ (if applicable for native code)
+*.obj
+*.exe
+*.pdb
+*.user
+*.sln
+*.suo
+*.vcxproj.filters
+*.vcxproj.user
+*.dll
+*.lib
+*.exp
+*.ilk
+*.ncb
+*.sdf
+*.ipch
+Debug/
+Release/
+x64/
+x86/
+*.manifest
+
+# Lua (if used for scripts)
+*.lua.out
+*.lua.bin
+
+# General IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Build artifacts
+bin/
+obj/
+*.o
+*.a
+*.la
+*.lo
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Configuration files (user-specific)
+*.ini
+*.cfg
+*.config
+local.settings.json
+
+# Mod-specific
+*.asi
+*.dll
+*.log
+*.rpf
+*.ytd
+*.ydd
+*.yft
+*.ydr
+*.ymt
+*.ymap
+*.ybn
+*.ycd
+*.ypt
+*.ypd
+*.ytyp
+*.yvr
